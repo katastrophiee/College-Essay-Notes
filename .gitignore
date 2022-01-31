@@ -1,4 +1,4 @@
-Checklist.
+Stages of the Software Developement Life Cycle.
 
 Link (Page 55-77): https://qualifications.pearson.com/content/dam/pdf/TLevels/digital/digital-production-design-and-development/specification-and-sample-assessments/T_Level_Specification.pdf
 
@@ -16,3 +16,34 @@ Discuss:
 • plan for short falls and gaps in knowledge - say how you're gonna make up
 ```
 
+Second - Planning and Requirements Analysis:
+
+```
+Discuss:
+• business requirements (new software, increase security)
+• how effective it is at doing what its supposed to
+• break down into smaller problems using decomposition, pattern recognition and abstraction
+• state the functional and non-functional 
+• state the KPIs
+• state performance restrictions in digital projects
+• user acceptance criteria - does it meet the requirements
+• schedule projects
+• allocate appropriate resources
+• estimate costs
+• approopriate languages
+• use user input and ERDs
+```
+
+Third - Designing the product
+
+```
+• UI design
+• Plan to solve 
+```
+
+
+Algorithms
+
+```
+• do algorithms for atleast 5 complicated tasks (validation)
+```

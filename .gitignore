@@ -16,6 +16,7 @@ Discuss:
 • plan for short falls and gaps in knowledge - say how you're gonna make up
 ```
 
+
 Second - Planning and Requirements Analysis:
 
 ```
@@ -34,17 +35,48 @@ Discuss:
 • use user input and ERDs
 ```
 
-Third - Designing the product
+
+Third - Getting user input
+
+```
+• user stories
+• mind maps
+• entity relationship diagram
+```
+
+
+Fourth - Designing the product
 
 ```
 • UI design
 • Plan to solve key problems (do algorithms for atleast 5 complicated tasks (validation))
 • Data requirements 
+• Proof of concept
+• Initial testing schedule
 ```
 
 
-Algorithms
+Fifth - Developing and testing
 
 ```
-• 
+• Create prototype
+• Test using modular, automated and user testing and feedback
+```
+
+
+Sixth - Deploying and implementing the product
+
+```
+• Install and configure
+• Update
+
+```
+
+Seventh - Maintenance
+
+```
+• Provide system support
+• provide user support
+• Carry out bug fixes
+• User training
 ```

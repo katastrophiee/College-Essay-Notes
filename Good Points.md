@@ -1,3 +1,7 @@
+Functional and Non-Functional
+
+A functional requirement defines a system or its component that it needs in order to function as intended, whereas a non-functional requirement defines the performance attribute of a software system adn what it needs to do in order to function well.
+
 KPIs
 
 A KPI is a quantifiable measure of performance of the app over time. It allows us to notice where changes are needed and make them. Operational are short term KPIs, while strategic are long term
@@ -49,3 +53,9 @@ Decomposing:
 Wider issues in context:
   • meets needs of user and client
 ```
+
+Data protection Act - controls how your personal information is used by organisations, businesses or the government.
+
+
+Link: https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-uk-gdpr/
+Handling childrens data - Under 13s cannot consent to gdpr - to ensure that children are addressed in plain clear language that they can understand. Transparency and accountability are important where children’s data is concerned and this is especially relevant when they are accessing online services. CHildren are less aware of the risks

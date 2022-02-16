@@ -57,5 +57,6 @@ Wider issues in context:
 Data protection Act - controls how your personal information is used by organisations, businesses or the government.
 
 
-Link: https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-uk-gdpr/
+Link: https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-uk-gdpr
+
 Handling childrens data - Under 13s cannot consent to gdpr - to ensure that children are addressed in plain clear language that they can understand. Transparency and accountability are important where children’s data is concerned and this is especially relevant when they are accessing online services. CHildren are less aware of the risks

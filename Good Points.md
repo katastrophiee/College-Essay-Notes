@@ -54,9 +54,16 @@ Wider issues in context:
   • meets needs of user and client
 ```
 
-Data protection Act - controls how your personal information is used by organisations, businesses or the government.
+Data protection Act - controls how your personal information is used by organisations, businesses or the government - relates to the fact that users data will be handled by company
 
 
 Link: https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-uk-gdpr
 
-Handling childrens data - Under 13s cannot consent to gdpr - to ensure that children are addressed in plain clear language that they can understand. Transparency and accountability are important where children’s data is concerned and this is especially relevant when they are accessing online services. CHildren are less aware of the risks
+Handling childrens data - Under 13s cannot consent to gdpr - to ensure that children are addressed in plain clear language that they can understand. Transparency and accountability are important where children’s data is concerned and this is especially relevant when they are accessing online services. Children are less aware of the risks
+Add disclamer for creating teacher account, under 13 must have parent regesiter for them
+
+Computer Misuse act - The Computer Misuse Act protects personal data held by organisations from unauthorised access and modification
+
+decomposing functional 
+Link: https://lucid.app/lucidchart/b4feef23-0b85-4805-8739-941d91499272/edit?beaconFlowId=6D14479C28F2CCAF&invitationId=inv_4c4de03d-1b08-47d9-b0e9-be31baf1fdcd&page=0_0#
+page 18

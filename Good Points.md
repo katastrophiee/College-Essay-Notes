@@ -4,9 +4,9 @@ A KPI is a quantifiable measure of performance of the app over time. It allows u
 
 Things to think about:
 ```
-•	responsiveness 
-•	load handling
-•	reliability
+• responsiveness 
+• load handling
+• reliability
 ```
 
 page 13

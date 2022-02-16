@@ -67,3 +67,6 @@ Computer Misuse act - The Computer Misuse Act protects personal data held by org
 decomposing functional 
 Link: https://lucid.app/lucidchart/b4feef23-0b85-4805-8739-941d91499272/edit?beaconFlowId=6D14479C28F2CCAF&invitationId=inv_4c4de03d-1b08-47d9-b0e9-be31baf1fdcd&page=0_0#
 page 18
+
+Another way to assess non-functional is using FURPS model, which FURPS is an acronym for functionality, usability, reliability, performance and supportability
+Link: https://en.wikipedia.org/wiki/FURPS#:~:text=FURPS%20is%20an%20acronym%20representing,%2C%20Security%20(Safety%20%26%20Exploitability)

@@ -1,3 +1,58 @@
+A KPI is a quantifiable measure of performance of the app over time. It allows us to notice where changes are needed and make them. Operational are short term KPIs, while strategic are long term
+Things to think about:
+•	responsiveness 
+•	load handling
+•	reliability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A ii - Proposal:
 
 ```

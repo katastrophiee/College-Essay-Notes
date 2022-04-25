@@ -45,6 +45,7 @@ final thoughts?
 do funct and not funct
 ask about all things made
 
+```
 How well it works
 Requirements:
 Functional
@@ -61,3 +62,4 @@ Three things to think about:
 The Users
 Technical Users
 The Business (Client)
+```

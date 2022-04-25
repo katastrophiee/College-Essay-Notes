@@ -41,3 +41,6 @@ Reccomend to friend?
 rate it
 final thoughts?
 ```
+
+do funct and not funct
+ask about all things made

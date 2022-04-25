@@ -44,3 +44,20 @@ final thoughts?
 
 do funct and not funct
 ask about all things made
+
+How well it works
+Requirements:
+Functional
+Non-Functional
+KPIs
+UAC
+Questions:
+Open and Closed (Closed will allow the creation of graphs and/or summary tables
+Technical:
+Non-Technical
+Technical (Ask about the code)
+
+Three things to think about:
+The Users
+Technical Users
+The Business (Client)

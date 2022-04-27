@@ -64,4 +64,14 @@ Technical Users
 The Business (Client)
 ```
 
+Tech q
+```
+Is it readable
+Do the comments make sense
+naming conventions
+would you be able to work off this code if given
+any errors you see 
+anything you would do differently
+```
+
 https://www.icaew.com/-/media/corporate/files/members/business-services/practice-management-v8-4-5-evaluation-report.ashx

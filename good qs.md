@@ -75,3 +75,11 @@ anything you would do differently
 ```
 
 https://www.icaew.com/-/media/corporate/files/members/business-services/practice-management-v8-4-5-evaluation-report.ashx
+
+Functional: 
+
+```
+Did you fulfil them based on the feedback?
+If not, what went wrong?
+What will you change/add for future iterations of the prototype to fix this?
+```

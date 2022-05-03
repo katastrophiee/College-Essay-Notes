@@ -76,10 +76,28 @@ anything you would do differently
 
 https://www.icaew.com/-/media/corporate/files/members/business-services/practice-management-v8-4-5-evaluation-report.ashx
 
+Analysis:
+
+```
+Sumarise findings
+What went well?
+What needs improvement?
+```
+
+```
+The assets used are appropriate for this product. The student has considered legal and
+ethical issues, especially a consideration for people who are struggling with weight
+problems and a consideration of how this may affect them. Sources are reliable and
+valid.
+There is a detailed evaluation of the functional and non-functional requirements of the
+system. They have discussed the KPIs3. They have also included how each webpage
+meets user needs.
+```
+
 Functional: 
 
 ```
-Did you fulfil them based on the feedback?
+Did you fulfil them based on the survey feedback?
 If not, what went wrong?
 What will you change/add for future iterations of the prototype to fix this?
 ```

@@ -101,3 +101,11 @@ Did you fulfil them based on the survey feedback?
 If not, what went wrong?
 What will you change/add for future iterations of the prototype to fix this?
 ```
+
+B:
+```
+stuff online- assests, why i chose, if it fits and how useful
+copyright
+task a - functional and non-functional - how well done and imporvements
+how id tell developers to improve it - use survey respones 
+```
